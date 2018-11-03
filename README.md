@@ -1,1 +1,1 @@
-hand on machine learning 
+hands on machine learning 
